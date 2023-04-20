@@ -13,5 +13,7 @@ return [
 
     Access::class,
 
-    System::class
+    System::class,
+    
+    Cloud::class
 ];
